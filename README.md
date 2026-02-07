@@ -17,13 +17,17 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AngelSg35395&hide=prs,stars&show_icons=true&theme=tokyonight&border_color=03014F" alt="AngelSg35395 Streak Stats" width="auto" height="100%" />
+</p>
+
 <table align="center">
     <tr>
         <td align="center">
-            <img src="https://github-readme-stats.zcy.dev/api?username=AngelSg35395&hide=prs,stars&show_icons=true&theme=tokyonight&border_color=03014F" alt="AngelSg35395 Stats" width="auto" height="100%" />
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=AngelSg35395&hide=prs,stars&show_icons=true&theme=tokyonight&border_color=03014F" alt="AngelSg35395 Stats" width="auto" height="100%" />
         </td>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSg35395&layout=compact&theme=tokyonight&border_color=03014F&text_color=fff" alt="AngelSg35395 Top Languages" width="auto" height="100%" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AngelSg35395&layout=compact&theme=tokyonight&border_color=03014F&text_color=fff" alt="AngelSg35395 Top Languages" width="auto" height="100%" />
         </td>
     </tr>
 </table>
